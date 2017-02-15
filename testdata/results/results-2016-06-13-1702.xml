@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="7923" lt="2289" ts="1465826565026" s="true" lb="Homepage" rc="200" rm="OK" tn="Checkout Thread Group 1-1" dt="text" by="70929" ng="2" na="2"/>
+<httpSample t="7826" lt="1372" ts="1465826571512" s="true" lb="Homepage" rc="200" rm="OK" tn="Checkout Thread Group 1-2" dt="text" by="70929" ng="3" na="3"/>
+<httpSample t="9114" lt="9114" ts="1465826574624" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-1" dt="text" by="1689" ng="4" na="4"/>
+<httpSample t="3441" lt="3441" ts="1465826580297" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-2" dt="text" by="1689" ng="4" na="4"/>
+<httpSample t="5785" lt="1128" ts="1465826578022" s="true" lb="Homepage" rc="200" rm="OK" tn="Checkout Thread Group 1-3" dt="text" by="70929" ng="4" na="4"/>
+<httpSample t="1899" lt="1899" ts="1465826584515" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-1" dt="text" by="1841" ng="4" na="4"/>
+<httpSample t="2193" lt="2192" ts="1465826584249" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-3" dt="text" by="1689" ng="4" na="4"/>
+<httpSample t="1162" lt="1162" ts="1465826585794" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-2" dt="text" by="1841" ng="4" na="4"/>
+<httpSample t="1682" lt="1682" ts="1465826587468" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-2" dt="text" by="1841" ng="5" na="5"/>
+<httpSample t="5988" lt="864" ts="1465826583164" s="true" lb="Homepage" rc="200" rm="OK" tn="Checkout Thread Group 1-4" dt="text" by="70929" ng="5" na="5"/>
+<httpSample t="1809" lt="1809" ts="1465826588085" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-3" dt="text" by="1841" ng="5" na="5"/>
+<httpSample t="2097" lt="2097" ts="1465826587841" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-1" dt="text" by="1841" ng="5" na="5"/>
+<httpSample t="2007" lt="2007" ts="1465826590904" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-1" dt="text" by="1841" ng="5" na="5"/>
+<httpSample t="1901" lt="1901" ts="1465826591080" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-3" dt="text" by="1841" ng="5" na="5"/>
+<httpSample t="2162" lt="2162" ts="1465826590882" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-2" dt="text" by="1841" ng="5" na="5"/>
+<httpSample t="2676" lt="2676" ts="1465826590856" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-4" dt="text" by="1689" ng="5" na="5"/>
+<httpSample t="4933" lt="1268" ts="1465826588619" s="true" lb="Homepage" rc="200" rm="OK" tn="Checkout Thread Group 1-5" dt="text" by="70929" ng="5" na="5"/>
+<httpSample t="2100" lt="2100" ts="1465826593817" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-4" dt="text" by="1841" ng="6" na="6"/>
+<httpSample t="1950" lt="1950" ts="1465826594012" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-3" dt="text" by="1841" ng="6" na="6"/>
+<httpSample t="1815" lt="1815" ts="1465826595220" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-5" dt="text" by="1689" ng="6" na="6"/>
+<httpSample t="5534" lt="2155" ts="1465826593291" s="true" lb="View Cart Page" rc="200" rm="OK" tn="Checkout Thread Group 1-2" dt="text" by="42782" ng="6" na="6"/>
+<httpSample t="5151" lt="1800" ts="1465826593674" s="true" lb="View Cart Page" rc="200" rm="OK" tn="Checkout Thread Group 1-1" dt="text" by="42782" ng="6" na="6"/>
+<httpSample t="1494" lt="1494" ts="1465826597521" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-5" dt="text" by="1841" ng="6" na="6"/>
+<httpSample t="1741" lt="1741" ts="1465826597286" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-4" dt="text" by="1841" ng="6" na="6"/>
+<httpSample t="4170" lt="493" ts="1465826595182" s="true" lb="Homepage" rc="200" rm="OK" tn="Checkout Thread Group 1-6" dt="text" by="70929" ng="6" na="6"/>
+<httpSample t="2563" lt="1233" ts="1465826598019" s="true" lb="View Cart Page" rc="200" rm="OK" tn="Checkout Thread Group 1-3" dt="text" by="42782" ng="7" na="7"/>
+<httpSample t="3037" lt="3037" ts="1465826599590" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-6" dt="text" by="1689" ng="7" na="7"/>
+<httpSample t="3187" lt="3187" ts="1465826600440" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-5" dt="text" by="1841" ng="7" na="7"/>
+<httpSample t="4017" lt="4017" ts="1465826600599" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-4" dt="text" by="1841" ng="7" na="7"/>
+<httpSample t="1972" lt="1972" ts="1465826603561" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-6" dt="text" by="1841" ng="7" na="7"/>
+<httpSample t="5824" lt="2845" ts="1465826600567" s="true" lb="Remove From Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-2" dt="text" by="34078" ng="8" na="8"/>
+<httpSample t="6220" lt="4372" ts="1465826600296" s="true" lb="Remove From Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-1" dt="text" by="34078" ng="8" na="8"/>
+<httpSample t="5743" lt="2674" ts="1465826600919" s="true" lb="Remove From Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-3" dt="text" by="34078" ng="8" na="8"/>
+<httpSample t="1203" lt="1203" ts="1465826605762" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-5" dt="text" by="1841" ng="8" na="8"/>
+<httpSample t="1120" lt="1120" ts="1465826606013" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-6" dt="text" by="1841" ng="8" na="8"/>
+<httpSample t="42039" lt="1433" ts="1465826601759" s="true" lb="Homepage" rc="200" rm="OK" tn="Checkout Thread Group 1-7" dt="text" by="70929" ng="10" na="10"/>
+<httpSample t="35465" lt="35465" ts="1465826608443" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-6" dt="text" by="1841" ng="10" na="10"/>
+<httpSample t="37945" lt="756" ts="1465826606325" s="true" lb="Homepage" rc="200" rm="OK" tn="Checkout Thread Group 1-8" dt="text" by="70929" ng="10" na="10"/>
+<httpSample t="36712" lt="35855" ts="1465826607890" s="true" lb="View Cart Page" rc="200" rm="OK" tn="Checkout Thread Group 1-5" dt="text" by="42782" ng="10" na="10"/>
+<httpSample t="38334" lt="1137" ts="1465826606288" s="true" lb="View Cart Page" rc="200" rm="OK" tn="Checkout Thread Group 1-4" dt="text" by="42782" ng="10" na="10"/>
+<httpSample t="37704" lt="311" ts="1465826607106" s="true" lb="Checkout Add Delivery Address Post" rc="200" rm="OK" tn="Checkout Thread Group 1-1" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="37422" lt="308" ts="1465826607397" s="true" lb="Checkout Add Delivery Address Post" rc="200" rm="OK" tn="Checkout Thread Group 1-3" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="37103" lt="632" ts="1465826608113" s="true" lb="Checkout Add Delivery Address Post" rc="200" rm="OK" tn="Checkout Thread Group 1-2" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="498" lt="96" ts="1465826645515" s="true" lb="Checkout Choose Delivery Method" rc="200" rm="OK" tn="Checkout Thread Group 1-3" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="27763" lt="25555" ts="1465826618643" s="true" lb="Homepage" rc="200" rm="OK" tn="Checkout Thread Group 1-10" dt="text" by="70929" ng="10" na="10"/>
+<httpSample t="1701" lt="1701" ts="1465826644848" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-8" dt="text" by="1689" ng="10" na="10"/>
+<httpSample t="2513" lt="2513" ts="1465826644147" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-7" dt="text" by="1689" ng="10" na="10"/>
+<httpSample t="32868" lt="30413" ts="1465826613818" s="true" lb="Homepage" rc="200" rm="OK" tn="Checkout Thread Group 1-9" dt="text" by="70929" ng="10" na="10"/>
+<httpSample t="1679" lt="1145" ts="1465826645130" s="true" lb="Remove From Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-5" dt="text" by="34078" ng="10" na="10"/>
+<httpSample t="1110" lt="25" ts="1465826645774" s="true" lb="Checkout Choose Delivery Method" rc="200" rm="OK" tn="Checkout Thread Group 1-1" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="1491" lt="82" ts="1465826645529" s="true" lb="Checkout Choose Delivery Method" rc="200" rm="OK" tn="Checkout Thread Group 1-2" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="1238" lt="591" ts="1465826645799" s="true" lb="View Cart Page" rc="200" rm="OK" tn="Checkout Thread Group 1-6" dt="text" by="42782" ng="10" na="10"/>
+<httpSample t="1702" lt="856" ts="1465826645419" s="true" lb="Remove From Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-4" dt="text" by="34078" ng="10" na="10"/>
+<httpSample t="1709" lt="1709" ts="1465826647200" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-9" dt="text" by="1689" ng="10" na="10"/>
+<httpSample t="652" lt="235" ts="1465826648637" s="true" lb="Checkout Add Delivery Address Post" rc="200" rm="OK" tn="Checkout Thread Group 1-4" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="2006" lt="2006" ts="1465826647388" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-7" dt="text" by="1841" ng="10" na="10"/>
+<httpSample t="1769" lt="1769" ts="1465826647631" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-10" dt="text" by="1689" ng="10" na="10"/>
+<httpSample t="2003" lt="2003" ts="1465826647538" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-8" dt="text" by="1841" ng="10" na="10"/>
+<httpSample t="1189" lt="452" ts="1465826648528" s="true" lb="Remove From Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-6" dt="text" by="34078" ng="10" na="10"/>
+<httpSample t="230" lt="230" ts="1465826649746" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-10" dt="text" by="1841" ng="10" na="10"/>
+<httpSample t="1049" lt="303" ts="1465826648976" s="true" lb="Checkout Add Delivery Address Post" rc="200" rm="OK" tn="Checkout Thread Group 1-5" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="207" lt="207" ts="1465826650071" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-8" dt="text" by="1841" ng="10" na="10"/>
+<httpSample t="162" lt="162" ts="1465826650309" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-10" dt="text" by="1841" ng="10" na="10"/>
+<httpSample t="110" lt="110" ts="1465826650496" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-9" dt="text" by="1841" ng="10" na="10"/>
+<httpSample t="378" lt="97" ts="1465826650474" s="true" lb="Checkout Choose Delivery Method" rc="200" rm="OK" tn="Checkout Thread Group 1-4" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="3605" lt="3605" ts="1465826647514" s="true" lb="Checkout Add Payment Method" rc="200" rm="OK" tn="Checkout Thread Group 1-3" dt="text" by="4717" ng="10" na="10"/>
+<httpSample t="3120" lt="3120" ts="1465826648000" s="true" lb="Checkout Add Payment Method" rc="200" rm="OK" tn="Checkout Thread Group 1-2" dt="text" by="4717" ng="10" na="10"/>
+<httpSample t="2126" lt="2126" ts="1465826648995" s="true" lb="Checkout Add Payment Method" rc="200" rm="OK" tn="Checkout Thread Group 1-1" dt="text" by="4717" ng="10" na="10"/>
+<httpSample t="404" lt="404" ts="1465826651013" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-7" dt="text" by="1841" ng="10" na="10"/>
+<httpSample t="287" lt="121" ts="1465826651407" s="true" lb="Checkout Add Delivery Address Post" rc="200" rm="OK" tn="Checkout Thread Group 1-6" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="287" lt="11" ts="1465826651426" s="true" lb="Checkout SOP Response Post" rc="200" rm="OK" tn="Checkout Thread Group 1-1" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="88" lt="88" ts="1465826651880" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-9" dt="text" by="1841" ng="10" na="10"/>
+<httpSample t="118" lt="118" ts="1465826652876" s="true" lb="Checkout Add Payment Method" rc="200" rm="OK" tn="Checkout Thread Group 1-4" dt="text" by="4717" ng="10" na="10"/>
+<httpSample t="1145" lt="8" ts="1465826652104" s="true" lb="Checkout Choose Delivery Method" rc="200" rm="OK" tn="Checkout Thread Group 1-5" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="1003" lt="1003" ts="1465826652330" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-8" dt="text" by="1841" ng="10" na="10"/>
+<httpSample t="1048" lt="328" ts="1465826652310" s="true" lb="Checkout SOP Response Post" rc="200" rm="OK" tn="Checkout Thread Group 1-2" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="545" lt="545" ts="1465826652819" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-9" dt="text" by="1841" ng="10" na="10"/>
+<httpSample t="936" lt="936" ts="1465826652576" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-10" dt="text" by="1841" ng="10" na="10"/>
+<httpSample t="1366" lt="78" ts="1465826652151" s="true" lb="Checkout SOP Response Post" rc="200" rm="OK" tn="Checkout Thread Group 1-3" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="901" lt="901" ts="1465826652624" s="true" lb="Add To Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-7" dt="text" by="1841" ng="10" na="10"/>
+<httpSample t="905" lt="264" ts="1465826652676" s="true" lb="Checkout Place Order" rc="200" rm="OK" tn="Checkout Thread Group 1-1" dt="text" by="38716" ng="10" na="10"/>
+<sample t="42132" lt="2737" ts="1465826606518" s="true" lb="Checkout Transaction" rc="200" rm="Number of samples in transaction : 6, number of failing samples : 0" tn="Checkout Thread Group 1-1" dt="" by="159581" ng="10" na="10"/>
+<httpSample t="422" lt="145" ts="1465826653379" s="true" lb="Checkout Choose Delivery Method" rc="200" rm="OK" tn="Checkout Thread Group 1-6" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="464" lt="15" ts="1465826653341" s="true" lb="Checkout SOP Response Post" rc="200" rm="OK" tn="Checkout Thread Group 1-4" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="403" lt="103" ts="1465826653987" s="true" lb="Checkout Place Order" rc="200" rm="OK" tn="Checkout Thread Group 1-2" dt="text" by="38716" ng="10" na="10"/>
+<sample t="43165" lt="4265" ts="1465826606392" s="true" lb="Checkout Transaction" rc="200" rm="Number of samples in transaction : 6, number of failing samples : 0" tn="Checkout Thread Group 1-2" dt="" by="159581" ng="10" na="10"/>
+<httpSample t="45" lt="45" ts="1465826654400" s="true" lb="Checkout Add Payment Method" rc="200" rm="OK" tn="Checkout Thread Group 1-5" dt="text" by="4717" ng="10" na="10"/>
+<httpSample t="264" lt="95" ts="1465826654275" s="true" lb="Checkout Place Order" rc="200" rm="OK" tn="Checkout Thread Group 1-3" dt="text" by="38716" ng="10" na="10"/>
+<sample t="43155" lt="4182" ts="1465826606665" s="true" lb="Checkout Transaction" rc="200" rm="Number of samples in transaction : 6, number of failing samples : 0" tn="Checkout Thread Group 1-3" dt="" by="159581" ng="10" na="10"/>
+<httpSample t="612" lt="293" ts="1465826654705" s="true" lb="View Cart Page" rc="200" rm="OK" tn="Checkout Thread Group 1-9" dt="text" by="42782" ng="10" na="10"/>
+<httpSample t="123" lt="123" ts="1465826655455" s="true" lb="Checkout Add Payment Method" rc="200" rm="OK" tn="Checkout Thread Group 1-6" dt="text" by="4717" ng="10" na="10"/>
+<httpSample t="403" lt="57" ts="1465826655389" s="true" lb="Checkout Place Order" rc="200" rm="OK" tn="Checkout Thread Group 1-4" dt="text" by="38716" ng="10" na="10"/>
+<sample t="2015" lt="522" ts="1465826647123" s="true" lb="Checkout Transaction" rc="200" rm="Number of samples in transaction : 6, number of failing samples : 0" tn="Checkout Thread Group 1-4" dt="" by="159581" ng="10" na="10"/>
+<httpSample t="296" lt="44" ts="1465826655534" s="true" lb="View Cart Page" rc="200" rm="OK" tn="Checkout Thread Group 1-10" dt="text" by="42782" ng="10" na="10"/>
+<httpSample t="563" lt="308" ts="1465826655325" s="true" lb="View Cart Page" rc="200" rm="OK" tn="Checkout Thread Group 1-7" dt="text" by="42782" ng="10" na="10"/>
+<httpSample t="244" lt="46" ts="1465826655711" s="true" lb="Checkout SOP Response Post" rc="200" rm="OK" tn="Checkout Thread Group 1-5" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="751" lt="404" ts="1465826655319" s="true" lb="View Cart Page" rc="200" rm="OK" tn="Checkout Thread Group 1-8" dt="text" by="42782" ng="10" na="10"/>
+<httpSample t="283" lt="88" ts="1465826656178" s="true" lb="Checkout Place Order" rc="200" rm="OK" tn="Checkout Thread Group 1-5" dt="text" by="38716" ng="10" na="10"/>
+<sample t="2766" lt="490" ts="1465826646810" s="true" lb="Checkout Transaction" rc="200" rm="Number of samples in transaction : 6, number of failing samples : 0" tn="Checkout Thread Group 1-5" dt="" by="159581" ng="10" na="10"/>
+<httpSample t="631" lt="130" ts="1465826655914" s="true" lb="Remove From Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-9" dt="text" by="34078" ng="10" na="10"/>
+<httpSample t="347" lt="11" ts="1465826656349" s="true" lb="Checkout SOP Response Post" rc="200" rm="OK" tn="Checkout Thread Group 1-6" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="204" lt="38" ts="1465826657185" s="true" lb="Update Cart Quantity" rc="200" rm="OK" tn="Checkout Thread Group 1-10" dt="text" by="43347" ng="10" na="10"/>
+<httpSample t="213" lt="31" ts="1465826657451" s="true" lb="Update Cart Quantity" rc="200" rm="OK" tn="Checkout Thread Group 1-7" dt="text" by="43338" ng="10" na="10"/>
+<httpSample t="172" lt="71" ts="1465826658057" s="true" lb="Remove From Cart" rc="200" rm="OK" tn="Checkout Thread Group 1-8" dt="text" by="34078" ng="10" na="10"/>
+<httpSample t="175" lt="7" ts="1465826658075" s="true" lb="Checkout Add Delivery Address Post" rc="200" rm="OK" tn="Checkout Thread Group 1-9" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="116" lt="7" ts="1465826658361" s="true" lb="Checkout Place Order" rc="200" rm="OK" tn="Checkout Thread Group 1-6" dt="text" by="38716" ng="10" na="10"/>
+<sample t="1295" lt="407" ts="1465826649719" s="true" lb="Checkout Transaction" rc="200" rm="Number of samples in transaction : 6, number of failing samples : 0" tn="Checkout Thread Group 1-6" dt="" by="159581" ng="10" na="10"/>
+<httpSample t="171" lt="8" ts="1465826658585" s="true" lb="Checkout Add Delivery Address Post" rc="200" rm="OK" tn="Checkout Thread Group 1-7" dt="text" by="38718" ng="10" na="10"/>
+<httpSample t="158" lt="8" ts="1465826659114" s="true" lb="Checkout Add Delivery Address Post" rc="200" rm="OK" tn="Checkout Thread Group 1-8" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="253" lt="10" ts="1465826659122" s="true" lb="Checkout Choose Delivery Method" rc="200" rm="OK" tn="Checkout Thread Group 1-7" dt="text" by="38718" ng="10" na="10"/>
+<httpSample t="188" lt="17" ts="1465826659519" s="true" lb="Checkout Add Delivery Address Post" rc="200" rm="OK" tn="Checkout Thread Group 1-10" dt="text" by="38720" ng="10" na="10"/>
+<httpSample t="189" lt="57" ts="1465826659631" s="true" lb="Checkout Choose Delivery Method" rc="200" rm="OK" tn="Checkout Thread Group 1-8" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="114" lt="9" ts="1465826660281" s="true" lb="Checkout Choose Delivery Method" rc="200" rm="OK" tn="Checkout Thread Group 1-9" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="104" lt="8" ts="1465826660407" s="true" lb="Checkout Choose Delivery Method" rc="200" rm="OK" tn="Checkout Thread Group 1-10" dt="text" by="38720" ng="10" na="10"/>
+<httpSample t="27" lt="27" ts="1465826660833" s="true" lb="Checkout Add Payment Method" rc="200" rm="OK" tn="Checkout Thread Group 1-7" dt="text" by="4717" ng="10" na="10"/>
+<httpSample t="121" lt="121" ts="1465826661180" s="true" lb="Checkout Add Payment Method" rc="200" rm="OK" tn="Checkout Thread Group 1-9" dt="text" by="4717" ng="10" na="10"/>
+<httpSample t="120" lt="120" ts="1465826661181" s="true" lb="Checkout Add Payment Method" rc="200" rm="OK" tn="Checkout Thread Group 1-10" dt="text" by="4717" ng="10" na="10"/>
+<httpSample t="9" lt="9" ts="1465826661621" s="true" lb="Checkout Add Payment Method" rc="200" rm="OK" tn="Checkout Thread Group 1-8" dt="text" by="4717" ng="10" na="10"/>
+<httpSample t="133" lt="8" ts="1465826661734" s="true" lb="Checkout SOP Response Post" rc="200" rm="OK" tn="Checkout Thread Group 1-9" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="137" lt="13" ts="1465826662152" s="true" lb="Checkout SOP Response Post" rc="200" rm="OK" tn="Checkout Thread Group 1-10" dt="text" by="38720" ng="10" na="10"/>
+<httpSample t="178" lt="10" ts="1465826662247" s="true" lb="Checkout SOP Response Post" rc="200" rm="OK" tn="Checkout Thread Group 1-7" dt="text" by="38718" ng="10" na="10"/>
+<httpSample t="138" lt="7" ts="1465826662651" s="true" lb="Checkout Place Order" rc="200" rm="OK" tn="Checkout Thread Group 1-10" dt="text" by="38720" ng="10" na="10"/>
+<sample t="687" lt="165" ts="1465826657389" s="true" lb="Checkout Transaction" rc="200" rm="Number of samples in transaction : 6, number of failing samples : 0" tn="Checkout Thread Group 1-10" dt="" by="159597" ng="10" na="10"/>
+<httpSample t="156" lt="29" ts="1465826662644" s="true" lb="Checkout SOP Response Post" rc="200" rm="OK" tn="Checkout Thread Group 1-8" dt="text" by="38716" ng="10" na="10"/>
+<httpSample t="131" lt="8" ts="1465826662943" s="true" lb="Checkout Place Order" rc="200" rm="OK" tn="Checkout Thread Group 1-9" dt="text" by="38716" ng="10" na="10"/>
+<sample t="674" lt="153" ts="1465826656546" s="true" lb="Checkout Transaction" rc="200" rm="Number of samples in transaction : 6, number of failing samples : 0" tn="Checkout Thread Group 1-9" dt="" by="159581" ng="10" na="10"/>
+<httpSample t="156" lt="20" ts="1465826663057" s="true" lb="Checkout Place Order" rc="200" rm="OK" tn="Checkout Thread Group 1-8" dt="text" by="38716" ng="10" na="10"/>
+<sample t="668" lt="123" ts="1465826658230" s="true" lb="Checkout Transaction" rc="200" rm="Number of samples in transaction : 6, number of failing samples : 0" tn="Checkout Thread Group 1-8" dt="" by="159581" ng="10" na="10"/>
+<httpSample t="166" lt="38" ts="1465826664415" s="true" lb="Checkout Place Order" rc="200" rm="OK" tn="Checkout Thread Group 1-7" dt="text" by="38718" ng="10" na="10"/>
+<sample t="795" lt="93" ts="1465826657665" s="true" lb="Checkout Transaction" rc="200" rm="Number of samples in transaction : 6, number of failing samples : 0" tn="Checkout Thread Group 1-7" dt="" by="159589" ng="10" na="10"/>
+<httpSample t="32126" lt="6451" ts="1465827075101" s="true" lb="Homepage" rc="200" rm="OK" tn="Checkout Thread Group 1-1" dt="text" by="70929" ng="10" na="10"/>
